@@ -20,7 +20,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
+							<span class="image avatar48"><img src="https://github.com/VenkataPrasannaC/performance-marketing-portfolio/blob/0cce6ed8801583a03aadef375fd4d78abc95b784/avatar.jpg" alt="" /></span>
 							<h1 id="title">Venkata Prasanna C</h1>
 							<p>SEO Expert | Digital Marketing</p>
 						</div>
