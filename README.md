@@ -20,7 +20,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar48"><img src="https://drive.google.com/file/d/1K2XIi3QwDYgF5DzPg7Co621v3doeLw7s/view?usp=sharing" alt="" /></span>
+							<span class="image avatar48"><img src="images/avatar.jpg" alt="" /></span>
 							<h1 id="title">Venkata Prasanna C</h1>
 							<p>SEO Expert | Digital Marketing</p>
 						</div>
